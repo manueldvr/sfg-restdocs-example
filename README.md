@@ -1,7 +1,9 @@
 ### Secction 8: 
+
 ## Spring MVC REST Docs
 
-----
+
+---
 
 # SFG Spring REST Docs Example
 
