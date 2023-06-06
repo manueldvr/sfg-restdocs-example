@@ -1,4 +1,26 @@
+### Secction 8: 
+## Spring MVC REST Docs
+
+----
+
 # SFG Spring REST Docs Example
+
+#### index:
+
+#### Documenting Path Parameters
+
+#### References
+
+----
+
+## Documenting Path Parameters
+
+
+
+
+----
+## References
+
 
 This repository contains source code examples used to support my on-line courses about the Spring Framework.
 
